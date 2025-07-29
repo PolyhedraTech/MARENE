@@ -11,7 +11,7 @@ La contribución de MARENE a la transición ecológica es muy relevante, ya que 
 
 En el ámbito de la transición digital, MARENE impulsa la digitalización del sector de la construcción al promover la automatización de simulaciones y la toma de decisiones basada en datos. La aplicación NECADA es un ejemplo de cómo MARENE impulsa el desarrollo de nuevas plataformas y servicios digitales en la gestión energética de edificios.
 
-Contenido del Repositorio
+##Contenido del Repositorio
 Histogramas: Gráficos que representan un histograma para cada combinación de factores analizados, facilitando la visualización de la distribución de probabilidad de las variables.
 Tablas: Conjuntos de datos que contienen los valores obtenidos a partir de los análisis realizados, permitiendo un examen detallado de los resultados. El formato es el que se ha de utilizar para poder integrarse con el sistema de simulación implementado en NECADA.
 
